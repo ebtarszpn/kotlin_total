@@ -1,4 +1,4 @@
-package com.permissionx.kotlintotal
+package com.example.kotlintotal
 
 import android.content.SharedPreferences
 import java.lang.StringBuilder

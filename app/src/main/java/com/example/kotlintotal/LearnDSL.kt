@@ -1,6 +1,5 @@
-package com.permissionx.kotlintotal
+package com.example.kotlintotal
 
-import com.google.android.material.tabs.TabLayout
 import java.lang.StringBuilder
 
 /**
@@ -76,7 +75,7 @@ fun main(){
             td { "hahaha" }
             td { "hahaha" }
         }
-        
+
     }
 
 }

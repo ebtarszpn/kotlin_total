@@ -1,4 +1,4 @@
-package com.permissionx.kotlintotal
+package com.example.kotlintotal
 
 import android.content.Context
 import android.content.Intent

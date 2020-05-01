@@ -1,4 +1,4 @@
-package com.permissionx.kotlintotal
+package com.example.kotlintotal
 
 /**
  * 拓展函数和运算符重载

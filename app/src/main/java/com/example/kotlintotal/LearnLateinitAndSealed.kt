@@ -1,4 +1,4 @@
-package com.permissionx.kotlintotal
+package com.example.kotlintotal
 
 /**
  * 延迟初始化和密封类

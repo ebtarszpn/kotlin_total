@@ -1,4 +1,4 @@
-package com.permissionx.kotlintotal
+package com.example.kotlintotal
 
 /**
  * kotlin基础语法知识

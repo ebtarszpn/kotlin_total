@@ -1,4 +1,4 @@
-package com.permissionx.kotlintotal
+package com.example.kotlintotal
 
 import kotlinx.coroutines.*
 import java.lang.Exception

@@ -1,7 +1,6 @@
-package com.permissionx.kotlintotal
+package com.example.kotlintotal
 
 import android.content.Context
-import android.view.View
 import android.widget.TextView
 import java.util.*
 

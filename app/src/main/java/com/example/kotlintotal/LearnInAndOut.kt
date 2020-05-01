@@ -1,7 +1,4 @@
-package com.permissionx.kotlintotal
-
-import java.lang.StringBuilder
-import javax.sql.StatementEvent
+package com.example.kotlintotal
 
 /**
  * 泛型的协变（out）和逆变(in)

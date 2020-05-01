@@ -1,10 +1,9 @@
-package com.permissionx.kotlintotal
+package com.example.kotlintotal
 
 import android.content.Context
 import android.view.View
 import android.widget.Toast
 import java.lang.RuntimeException
-import kotlin.math.max
 import com.google.android.material.snackbar.Snackbar
 
 
